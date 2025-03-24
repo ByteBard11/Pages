@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "server",
+            "address": "https://av3-server.onrender.com"
+        }
+    ]
+}
